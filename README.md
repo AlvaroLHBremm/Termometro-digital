@@ -16,7 +16,7 @@ Termômetro digital desenvolvido durante a disciplina de `Instrumentação anal�
 <p align="center"> <img src="figs/mascara.png" alt="diagrama" width="100%"></p>
 
 ###  PCB corroída
-<p align="center"> <img src="figs/cobre.jpg" alt="diagrama" width="100%"></p>
+<p align="center"> <img src="figs/.jpg" alt="diagrama" width="100%"></p>
 
 ###  PCB finalizada com componentes soldadps
 <p align="center"> <img src="figs/placa.png" alt="diagrama" width="100%"></p>
