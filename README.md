@@ -19,7 +19,7 @@ Termômetro digital desenvolvido durante a disciplina de `Instrumentação anal�
 <p align="center"> <img src="figs/cobre.jpg" alt="diagrama" width="100%"></p>
 
 ###  PCB finalizada com componentes soldadps
-<p align="center"> <img src="figs/placa.jpg" alt="diagrama" width="100%"></p>
+<p align="center"> <img src="figs/placa.png" alt="diagrama" width="100%"></p>
 
 
 Video do funcionamento do termomêtro: `https://www.youtube.com/watch?v=lSKmLO896dE`
