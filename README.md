@@ -1,7 +1,7 @@
 # Termômetro-digital
 
 Termômetro digital desenvolvido durante a disciplina de `Instrumentação analógica`. Utiliza o drive de conversor analogico-digital e LCD de 7 segmentos. O termomêtro foi entregue junto de um relatório ao professor,
-[Open PDF Document](./docs/relatorio.pdf)
+[Abrir relatório](./docs/relatorio.pdf)
 
 
 ###  Simulação do Proteus
@@ -23,4 +23,4 @@ Termômetro digital desenvolvido durante a disciplina de `Instrumentação anal�
 <p align="center"> <img src="figs/placa.png" alt="diagrama" width="100%"></p>
 
 
-Video do funcionamento do termomêtro: `[Visit Google](https://www.youtube.com/watch?v=lSKmLO896dE)` 
+Video do funcionamento do termomêtro: [Visit Google](https://www.youtube.com/watch?v=lSKmLO896dE)
